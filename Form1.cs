@@ -1,8 +1,8 @@
 namespace CS311_Project3_CBN
 {
-    public partial class PizzaNation : Form
+    public partial class frmPizzaNation : Form
     {
-        public PizzaNation()
+        public frmPizzaNation()
         {
             InitializeComponent();
         }
